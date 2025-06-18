@@ -1,3 +1,9 @@
+Link to watch a simple video of the project; (https://www.youtube.com/watch?v=9gN9y0u4GgE&ab_channel=CHICKEN_EATER)
+
+
+
+
+
 # 🐍 Snake Game in Java
 
 A classic Snake Game built with Java using `JPanel`, `Graphics`, and `KeyListener`.  
