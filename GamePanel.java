@@ -11,7 +11,7 @@ import java.awt.event.KeyEvent;
 import java.util.Random;
 import javax.swing.Timer;;
 
-public class GamePanel extends JPanel implements ActionListener{
+public classclass GamePanel extends JPanel implements ActionListener{
     static final int SCREEN_WIDTH = 600;
     static final int SCREEN_HEIGHT = 600;
     static final int UNIT_SIZE = 25;
