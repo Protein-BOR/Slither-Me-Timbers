@@ -1,5 +1,6 @@
 import javax.swing.JFrame;
 
+
 public class GameFrame extends JFrame { class GameFrame extends JFrame { class GameFrame extends JFrame {
     GameFrame() {
         this.add(new GamePanel());
@@ -15,3 +16,4 @@ public class GameFrame extends JFrame { class GameFrame extends JFrame { class G
         new GameFrame(); // Create and display the game window
     }
 }
+
